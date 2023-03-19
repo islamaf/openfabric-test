@@ -1,0 +1,30 @@
+ai/openfabric/api/config/CorsConfig.java
+ ai.openfabric.api.config.CorsConfig
+ai/openfabric/api/config/SwaggerConfig.java
+ ai.openfabric.api.config.SwaggerConfig
+ai/openfabric/api/request/WorkerRequest.java
+ ai.openfabric.api.request.WorkerRequest
+ ai.openfabric.api.request.WorkerRequest$WorkerRequestBuilder
+ai/openfabric/api/repository/WorkerRepository.java
+ ai.openfabric.api.repository.WorkerRepository
+ai/openfabric/api/Application.java
+ ai.openfabric.api.Application
+ai/openfabric/api/model/IDGenerator.java
+ ai.openfabric.api.model.IDGenerator
+ai/openfabric/api/response/WorkerResponse.java
+ ai.openfabric.api.response.WorkerResponse
+ ai.openfabric.api.response.WorkerResponse$WorkerResponseBuilder
+ai/openfabric/api/config/ElideConfig.java
+ ai.openfabric.api.config.ElideConfig
+ai/openfabric/api/config/WebSecurityConfig.java
+ ai.openfabric.api.config.WebSecurityConfig
+ai/openfabric/api/model/Datable.java
+ ai.openfabric.api.model.Datable
+ai/openfabric/api/controller/WorkerController.java
+ ai.openfabric.api.controller.WorkerController
+ai/openfabric/api/config/DockerConfig.java
+ ai.openfabric.api.config.DockerConfig
+ai/openfabric/api/model/Worker.java
+ ai.openfabric.api.model.Worker
+ai/openfabric/api/services/WorkerService.java
+ ai.openfabric.api.services.WorkerService
